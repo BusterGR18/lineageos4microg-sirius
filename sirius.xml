@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="BusterGR18/android_device_xiaomi_sirius" path="device/xiaomi/sirius" remote="github" />
+<project name="BusterGR18/android_device_xiaomi_sdm710-common" path="device/xiaomi/sdm710-common" remote="github" />
+<project name="BusterGR18/android_kernel_xiaomi_sdm710" path="kernel/xiaomi/sdm710" remote="github" />
+<project name="BusterGR18/android_vendor_xiaomi_sdm710" path="vendor/xiaomi" remote="github" />
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+</manifest>
